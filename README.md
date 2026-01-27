@@ -1,4 +1,6 @@
 <h1 align="center" style="font-size: 3.2em; font-weight: 900;"> 📺 Time Series Analysis <br/> <span style="font-size: 0.75em; font-weight: 800;">Video Lectures + Theory + Applications in R</span> </h1> 
+
+<div class="section">
 <h1> 📌 Overview </h1>
 
 <p>
@@ -20,7 +22,9 @@
   <p>
     It provides a rigorous yet intuitive introduction to classical time series modeling and forecasting.
   </p>
-  
+ </div>
+
+ <div class="section">
 <h1>🎬 Lecture Playlist</h1> 
 
 Lecture 1 — The Nature of Time Series Data and Components of a Time Series (Part 1)
@@ -106,6 +110,7 @@ https://www.youtube.com/watch?v=RG_pui8Ojnw
 
 Lecture 28 — SARIMA Models in R
 https://www.youtube.com/watch?v=VDH8Cz_ZOhQ
+</div>
 
 <div class="section">
   <h2>🎓 What You Will Learn</h2>
