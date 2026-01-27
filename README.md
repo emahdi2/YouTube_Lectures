@@ -107,30 +107,26 @@ https://www.youtube.com/watch?v=RG_pui8Ojnw
 Lecture 28 — SARIMA Models in R
 https://www.youtube.com/watch?v=VDH8Cz_ZOhQ
 
-<h1> 🎓 What You Will Learn</h1>
+<div class="section">
+  <h2>🎓 What You Will Learn</h2>
 
-By the end of this lecture series, students will be able to:
+  <p>
+    By the end of this lecture series, students will be able to:
+  </p>
 
-Understand the structure and components of time series data
-
-Perform classical decomposition (trend, seasonality, irregular)
-
-Apply exponential smoothing methods for forecasting
-
-Distinguish between weak and strong stationarity
-
-Interpret and use ACF and PACF
-
-Build AR, MA, ARMA, ARIMA, and SARIMA models
-
-Apply the Box–Jenkins methodology
-
-Conduct unit root tests for random walks
-
-Estimate models using maximum likelihood (MLE)
-
-Perform diagnostic checking and forecasting
-
-Implement all methods using R
+  <ul>
+    <li>Understand the structure and components of time series data</li>
+    <li>Perform classical decomposition (trend, seasonality, irregular)</li>
+    <li>Apply exponential smoothing methods for forecasting</li>
+    <li>Distinguish between weak and strong stationarity</li>
+    <li>Interpret and use ACF and PACF</li>
+    <li>Build AR, MA, ARMA, ARIMA, and SARIMA models</li>
+    <li>Apply the Box–Jenkins methodology</li>
+    <li>Conduct unit root tests for random walks</li>
+    <li>Estimate models using maximum likelihood (MLE)</li>
+    <li>Perform diagnostic checking and forecasting</li>
+    <li>Implement all methods using R</li>
+  </ul>
+</div>
 
 
