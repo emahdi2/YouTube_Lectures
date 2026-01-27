@@ -27,7 +27,7 @@
  <div class="section">
 <h1>🎬 Lecture Playlist</h1> 
 
-Lecture 1 — The Nature of Time Series Data and Components of a Time Series (Part 1)
+<h3>Lecture 1 </h3>— The Nature of Time Series Data and Components of a Time Series (Part 1)
 https://www.youtube.com/watch?v=BNprknQU4p4
 
 Lecture 2 — The Nature of Time Series Data and Components of a Time Series (Part 2)
