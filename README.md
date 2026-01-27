@@ -6,19 +6,17 @@ This repository is accompanied by a complete Time Series Analysis lecture series
 
 The series is designed for students and practitioners whose first language is Arabic and who are interested in:
 
-Statistics
+Undergraduate students in Statistics, Actuarial Science, Economics, or Data Science
 
-Data Science
+Graduate students in Quantitative Fields
 
-Econometrics
+Researchers and practitioners interested in forecasting
 
-Business Analytics
-
-Quantitative Finance
+Anyone seeking a rigorous foundation in time series analysis
 
 It provides a rigorous yet intuitive introduction to classical time series modeling and forecasting.
 
-🎬 Lecture Playlist 
+🎬 <strong>Lecture Playlist</strong> 
 
 Lecture 1 — The Nature of Time Series Data and Components of a Time Series (Part 1)
 https://www.youtube.com/watch?v=BNprknQU4p4
@@ -104,7 +102,7 @@ https://www.youtube.com/watch?v=RG_pui8Ojnw
 Lecture 28 — SARIMA Models in R
 https://www.youtube.com/watch?v=VDH8Cz_ZOhQ
 
-🎓 What You Will Learn
+🎓 <strong>What You Will Learn</strong>
 
 By the end of this lecture series, students will be able to:
 
@@ -130,7 +128,7 @@ Perform diagnostic checking and forecasting
 
 Implement all methods using R
 
-🛠 Tools & Software
+🛠 <strong>Tools & Software</strong>
 
 R (for decomposition, ARIMA/SARIMA, forecasting)
 
@@ -138,12 +136,3 @@ Base R time series libraries
 
 Forecasting and diagnostics packages
 
-📖 Suggested Audience
-
-Undergraduate students in Statistics, Economics, or Data Science
-
-Graduate students in Quantitative Fields
-
-Researchers and practitioners interested in forecasting
-
-Anyone seeking a rigorous foundation in time series analysis
