@@ -1,4 +1,4 @@
-<h1 style="font-size: 3.2em; font-weight: 900;"> 📺 Time Series Analysis <br/> <span style="font-size: 0.75em; font-weight: 800;">Video Lectures + Theory + Applications in R</span> </h1> 
+<h1 align="center" style="font-size: 3.2em; font-weight: 900;"> 📺 Time Series Analysis <br/> <span style="font-size: 0.75em; font-weight: 800;">Video Lectures + Theory + Applications in R</span> </h1> 
 <h1> 📌 Overview </h1>
 
 <p>
