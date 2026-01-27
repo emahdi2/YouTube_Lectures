@@ -27,10 +27,10 @@
  <div class="section">
 <h1>🎬 Lecture Playlist</h1> 
 
-<h3>Lecture 1 </h3>— The Nature of Time Series Data and Components of a Time Series (Part 1)
+<h3>Lecture 1 </h3> The Nature of Time Series Data and Components of a Time Series (Part 1)
 https://www.youtube.com/watch?v=BNprknQU4p4
 
-Lecture 2 — The Nature of Time Series Data and Components of a Time Series (Part 2)
+<h2>Lecture 1 </h2>  — The Nature of Time Series Data and Components of a Time Series (Part 2)
 https://www.youtube.com/watch?v=Sn0wYcq5r80
 
 Lecture 3 — Components of a Time Series (Part 3): Estimating Seasonality
