@@ -17,7 +17,7 @@ Quantitative Finance
 
 It provides a rigorous yet intuitive introduction to classical time series modeling and forecasting.
 
-<h1 🎬 Lecture Playlist </h1>
+<h1 🎬 Lecture Playlist </h1> </p>
 
 Lecture 1 — The Nature of Time Series Data and Components of a Time Series (Part 1)
 https://www.youtube.com/watch?v=BNprknQU4p4
