@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 3.2em; font-weight: 900;"> 📺 Time Series Analysis <br/> <span style="font-size: 0.75em; font-weight: 800;">Full Lecture Series (2017)</span> </h1> <p align="center"> <strong>Instructor:</strong> Esam Mahdi <br/> <strong>Format:</strong> Video Lectures + Theory + Applications in R <br/> <strong>Level:</strong> Undergraduate & Graduate </p>
 
-<br/> <strong>📌 Overview<strong> </p>
+📌 <br/> <strong>Overview <strong> <br/>
 
 This repository is accompanied by a complete Time Series Analysis lecture series delivered in 2017, covering both theoretical foundations and applied methods (with R).
 
