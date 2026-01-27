@@ -16,7 +16,7 @@ Anyone seeking a rigorous foundation in time series analysis
 
 It provides a rigorous yet intuitive introduction to classical time series modeling and forecasting.
 
-🎬 <strong>Lecture Playlist</strong> 
+<h1>🎬 Lecture Playlist</h1> 
 
 Lecture 1 — The Nature of Time Series Data and Components of a Time Series (Part 1)
 https://www.youtube.com/watch?v=BNprknQU4p4
@@ -102,7 +102,7 @@ https://www.youtube.com/watch?v=RG_pui8Ojnw
 Lecture 28 — SARIMA Models in R
 https://www.youtube.com/watch?v=VDH8Cz_ZOhQ
 
-🎓 <strong>What You Will Learn</strong>
+<h1> 🎓 What You Will Learn</h1>
 
 By the end of this lecture series, students will be able to:
 
@@ -128,7 +128,7 @@ Perform diagnostic checking and forecasting
 
 Implement all methods using R
 
-🛠 <strong>Tools & Software</strong>
+<h1>🛠 Tools & Software</h1>
 
 R (for decomposition, ARIMA/SARIMA, forecasting)
 
