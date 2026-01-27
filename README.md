@@ -1,20 +1,26 @@
 <h1 style="font-size: 3.2em; font-weight: 900;"> 📺 Time Series Analysis <br/> <span style="font-size: 0.75em; font-weight: 800;">Video Lectures + Theory + Applications in R</span> </h1> 
 <h1> 📌 Overview </h1>
 
-This repository is accompanied by a complete Time Series Analysis lecture series delivered in 2017, covering both theoretical foundations and applied methods (with R).
+<p>
+    This repository is accompanied by a complete <strong>Time Series Analysis lecture series</strong>
+    delivered in 2017, covering both theoretical foundations and applied methods (with R).
+  </p>
 
-The series is designed for students and practitioners whose first language is Arabic and who are interested in:
+  <p>
+    The series is designed for students and practitioners whose first language is Arabic and who are interested in:
+  </p>
 
-Undergraduate students in Statistics, Actuarial Science, Economics, or Data Science
+  <ul>
+    <li>Undergraduate students in Statistics, Actuarial Science, Economics, or Data Science</li>
+    <li>Graduate students in Quantitative Fields</li>
+    <li>Researchers and practitioners interested in forecasting</li>
+    <li>Anyone seeking a rigorous foundation in time series analysis</li>
+  </ul>
 
-Graduate students in Quantitative Fields
-
-Researchers and practitioners interested in forecasting
-
-Anyone seeking a rigorous foundation in time series analysis
-
-It provides a rigorous yet intuitive introduction to classical time series modeling and forecasting.
-
+  <p>
+    It provides a rigorous yet intuitive introduction to classical time series modeling and forecasting.
+  </p>
+  
 <h1>🎬 Lecture Playlist</h1> 
 
 Lecture 1 — The Nature of Time Series Data and Components of a Time Series (Part 1)
