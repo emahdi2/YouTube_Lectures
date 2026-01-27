@@ -132,7 +132,4 @@ Implement all methods using R
 
 R (for decomposition, ARIMA/SARIMA, forecasting)
 
-Base R time series libraries
-
-Forecasting and diagnostics packages
 
