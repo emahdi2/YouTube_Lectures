@@ -24,92 +24,170 @@
   </p>
  </div>
 
- <div class="section">
-<h1>🎬 Lecture Playlist</h1> 
+<div class="section">
+  <h2>🎬 Lecture Playlist</h2>
 
-<h3>Lecture 1 </h3> The Nature of Time Series Data and Components of a Time Series (Part 1)
-https://www.youtube.com/watch?v=BNprknQU4p4
+  <p>
+    Below is the complete Time Series Analysis lecture series (2017), organized by topic.
+  </p>
 
-<h3>Lecture 2 </h3> The Nature of Time Series Data and Components of a Time Series (Part 2)
-https://www.youtube.com/watch?v=Sn0wYcq5r80
+  <!-- Topic 1 -->
+  <h3>📘 Topic 1: Nature and Components of Time Series</h3>
+  <ul>
+    <li>
+      Lecture 1: The Nature of Time Series Data and Components (Part 1) — 
+      <a href="https://www.youtube.com/watch?v=BNprknQU4p4" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 2: The Nature of Time Series Data and Components (Part 2) — 
+      <a href="https://www.youtube.com/watch?v=Sn0wYcq5r80" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 3: Components of a Time Series — Estimating Seasonality (Part 3) — 
+      <a href="https://www.youtube.com/watch?v=gp90DcJ1-S0" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 4: Components of a Time Series — Estimating the Trend (Part 4) — 
+      <a href="https://www.youtube.com/watch?v=amcCC5hl3S4" target="_blank">Watch</a>
+    </li>
+  </ul>
 
-<h3>Lecture 3 </h3> Components of a Time Series (Part 3): Estimating Seasonality
-https://www.youtube.com/watch?v=gp90DcJ1-S0
+  <!-- Topic 2 -->
+  <h3>📊 Topic 2: Exponential Smoothing & Decomposition</h3>
+  <ul>
+    <li>
+      Lecture 5: Forecasting Using Exponential Smoothing — 
+      <a href="https://www.youtube.com/watch?v=S5Tq_ql7URE" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 6: Decomposition & Forecasting in R (Part 1) — 
+      <a href="https://www.youtube.com/watch?v=R2NgngQ1QzQ" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 7: Decomposition & Forecasting in R (Part 2) — 
+      <a href="https://www.youtube.com/watch?v=-gHw6-8bZ_w" target="_blank">Watch</a>
+    </li>
+  </ul>
 
-<h3>Lecture 4 </h3> Components of a Time Series (Part 4): Estimating the Trend
-https://www.youtube.com/watch?v=amcCC5hl3S4
+  <!-- Topic 3 -->
+  <h3>📈 Topic 3: Autocovariance, Autocorrelation & Stationarity</h3>
+  <ul>
+    <li>
+      Lecture 8: Autocovariance and Autocorrelation (Part 1) — 
+      <a href="https://www.youtube.com/watch?v=6v3-MkvBrE8" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 9: Autocovariance and Autocorrelation (Part 2) — 
+      <a href="https://www.youtube.com/watch?v=FDzEkhd0SIY" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 10: Weak and Strong Stationarity (Part 1) — 
+      <a href="https://www.youtube.com/watch?v=B_gmisRnmek" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 11: Weak and Strong Stationarity (Part 2) — 
+      <a href="https://www.youtube.com/watch?v=qUe8u2NgBes" target="_blank">Watch</a>
+    </li>
+  </ul>
 
-<h3>Lecture 5 </h3> Forecasting Using Exponential Smoothing
-https://www.youtube.com/watch?v=S5Tq_ql7URE
+  <!-- Topic 4 -->
+  <h3>📉 Topic 4: ARMA, ARIMA & SARIMA Models</h3>
+  <ul>
+    <li>
+      Lecture 12: ARMA Models (Part 1) — 
+      <a href="https://www.youtube.com/watch?v=6Ch1jUBz76s" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 13: ARMA Models (Part 2) — 
+      <a href="https://www.youtube.com/watch?v=3jqTORtpiY8" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 14: ARIMA and SARIMA Models — 
+      <a href="https://www.youtube.com/watch?v=cJIpwvMJVk8" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 28: SARIMA Models in R — 
+      <a href="https://www.youtube.com/watch?v=VDH8Cz_ZOhQ" target="_blank">Watch</a>
+    </li>
+  </ul>
 
-<h3>Lecture 6 </h3> Decomposition & Forecasting in R (Part 1)
-https://www.youtube.com/watch?v=R2NgngQ1QzQ
+  <!-- Topic 5 -->
+  <h3>🔁 Topic 5: Invertibility & Stationarity Conditions</h3>
+  <ul>
+    <li>
+      Lecture 15: Invertibility of MA & Stationarity of AR (Part 1) — 
+      <a href="https://www.youtube.com/watch?v=BewOvOJXMfk" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 16: Invertibility of MA & Stationarity of AR (Part 2) — 
+      <a href="https://www.youtube.com/watch?v=H1SV-i8GzVw" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 17: Invertibility of MA & Stationarity of AR (Part 3) — 
+      <a href="https://www.youtube.com/watch?v=691lM95lxps" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 18: Invertibility of MA & Stationarity of AR (Part 4) — 
+      <a href="https://www.youtube.com/watch?v=THJZW8I9ltk" target="_blank">Watch</a>
+    </li>
+  </ul>
 
-<h3>Lecture 7 </h3> Decomposition & Forecasting in R (Part 2)
-https://www.youtube.com/watch?v=-gHw6-8bZ_w
+  <!-- Topic 6 -->
+  <h3>📐 Topic 6: ACF, PACF & Theoretical Foundations</h3>
+  <ul>
+    <li>
+      Lecture 19: Partial Autocorrelation Function (PACF) & Yule–Walker Equations — 
+      <a href="https://www.youtube.com/watch?v=-RLRPxk1O9o" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 21: ACF of ARMA Models (Part 1) — 
+      <a href="https://www.youtube.com/watch?v=05BuqjoMGzU" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 22: ACF of ARMA Models (Part 2) — 
+      <a href="https://www.youtube.com/watch?v=aBBKvWi4Bog" target="_blank">Watch</a>
+    </li>
+  </ul>
 
-<h3>Lecture 8 </h3> Autocovariance and Autocorrelation (Part 1)
-https://www.youtube.com/watch?v=6v3-MkvBrE8
+  <!-- Topic 7 -->
+  <h3>🧪 Topic 7: Random Walks & Unit Root Testing</h3>
+  <ul>
+    <li>
+      Lecture 20: Random Walks & Unit Root Tests — 
+      <a href="https://www.youtube.com/watch?v=gfJiBCIVueQ" target="_blank">Watch</a>
+    </li>
+  </ul>
 
-<h3>Lecture 9 </h3> Autocovariance and Autocorrelation (Part 2)
-https://www.youtube.com/watch?v=FDzEkhd0SIY
+  <!-- Topic 8 -->
+  <h3>🧩 Topic 8: Box–Jenkins Methodology & Model Estimation</h3>
+  <ul>
+    <li>
+      Lecture 23: Box–Jenkins Approach — Model Identification (Part 1) — 
+      <a href="https://www.youtube.com/watch?v=MnOMbxra-9c" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 24: Box–Jenkins Approach — Model Identification (Part 2) — 
+      <a href="https://www.youtube.com/watch?v=lcYGgRCy0uI" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 25: Maximum Likelihood Estimation (MLE) & Model Selection (AIC/BIC) — 
+      <a href="https://www.youtube.com/watch?v=V7trtGt_0e4" target="_blank">Watch</a>
+    </li>
+  </ul>
 
-<h3>Lecture 10 </h3> Weak and Strong Stationarity (Part 1)
-https://www.youtube.com/watch?v=B_gmisRnmek
+  <!-- Topic 9 -->
+  <h3>🛠 Topic 9: Diagnostic Checking & Forecasting</h3>
+  <ul>
+    <li>
+      Lecture 26: Diagnostic Checking of ARMA Models — Portmanteau Tests (Part 1) — 
+      <a href="https://www.youtube.com/watch?v=VjwIphrqkmo" target="_blank">Watch</a>
+    </li>
+    <li>
+      Lecture 27: Diagnostic Checking of ARMA Models (Part 2) & Forecasting — 
+      <a href="https://www.youtube.com/watch?v=RG_pui8Ojnw" target="_blank">Watch</a>
+    </li>
+  </ul>
 
-<h3>Lecture 11 </h3> Weak and Strong Stationarity (Part 2)
-https://www.youtube.com/watch?v=qUe8u2NgBes
-
-<h3>Lecture 12 </h3> ARMA Models (Part 1)
-https://www.youtube.com/watch?v=6Ch1jUBz76s
-
-<h3>Lecture 13 </h3> ARMA Models (Part 2)
-https://www.youtube.com/watch?v=3jqTORtpiY8
-
-<h3>Lecture 14 </h3> ARIMA and SARIMA Models
-https://www.youtube.com/watch?v=cJIpwvMJVk8
-
-<h3>Lecture 15 </h3> Invertibility of MA & Stationarity of AR (Part 1)
-https://www.youtube.com/watch?v=BewOvOJXMfk
-
-<h3>Lecture 16 </h3> Invertibility of MA & Stationarity of AR (Part 2)
-https://www.youtube.com/watch?v=H1SV-i8GzVw
-
-<h3>Lecture 17 </h3> Invertibility of MA & Stationarity of AR (Part 3)
-https://www.youtube.com/watch?v=691lM95lxps
-
-<h3>Lecture 18 </h3> Invertibility of MA & Stationarity of AR (Part 4)
-https://www.youtube.com/watch?v=THJZW8I9ltk
-
-<h3>Lecture 19 </h3> Partial Autocorrelation Function (PACF) & Yule–Walker Equations
-https://www.youtube.com/watch?v=-RLRPxk1O9o
-
-<h3>Lecture 20 </h3> Random Walks & Unit Root Tests
-https://www.youtube.com/watch?v=gfJiBCIVueQ
-
-<h3>Lecture 21 </h3> Autocorrelation Function (ACF) of ARMA Models (Part 1)
-https://www.youtube.com/watch?v=05BuqjoMGzU
-
-<h3>Lecture 22 </h3> Autocorrelation Function (ACF) of ARMA Models (Part 2)
-https://www.youtube.com/watch?v=aBBKvWi4Bog
-
-<h3>Lecture 23 </h3> Box–Jenkins Approach: Model Identification (Part 1)
-https://www.youtube.com/watch?v=MnOMbxra-9c
-
-<h3>Lecture 24 </h3> Box–Jenkins Approach: Model Identification (Part 2)
-https://www.youtube.com/watch?v=lcYGgRCy0uI
-
-<h3>Lecture 25 </h3> Maximum Likelihood Estimation (MLE) & Model Selection (AIC/BIC)
-https://www.youtube.com/watch?v=V7trtGt_0e4
-
-<h3>Lecture 26 </h3> Diagnostic Checking of ARMA Models: Portmanteau Tests (Part 1)
-https://www.youtube.com/watch?v=VjwIphrqkmo
-
-<h3>Lecture 27 </h3> Diagnostic Checking of ARMA Models (Part 2) & Forecasting
-https://www.youtube.com/watch?v=RG_pui8Ojnw
-
-<h3>Lecture 28 </h3> SARIMA Models in R
-https://www.youtube.com/watch?v=VDH8Cz_ZOhQ
 </div>
 
 <div class="section">
