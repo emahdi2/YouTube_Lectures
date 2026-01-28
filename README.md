@@ -188,6 +188,15 @@
     </li>
   </ul>
 
+<!-- Topic 10 -->
+  <h3>💻 Topic 10: Application</h3>
+  <ul>
+    <li>
+      Lecture 28: Time Series Analysis — SARIMA Models in R —
+      <a href="https://www.youtube.com/watch?v=VDH8Cz_ZOhQ" target="_blank">Watch</a>
+    </li>
+  </ul>
+
 </div>
 
 <div class="section">
